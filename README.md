@@ -1,4 +1,4 @@
 # Adherence-study
 ## Contributors
--Samira Mohammed 
--Lamis Yahya
+- Samira Mohammed 
+- Lamis Yahya
